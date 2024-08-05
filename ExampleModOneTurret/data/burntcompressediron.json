@@ -1,0 +1,8 @@
+{
+    "internalname":"burntcompressediron",
+    "displayname":"Burnt Compressed Iron",
+    "bulletdata":{
+        "damage":4,
+        "def:burn":true
+    }
+}

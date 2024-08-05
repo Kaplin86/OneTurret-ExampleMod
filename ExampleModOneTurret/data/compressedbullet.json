@@ -1,0 +1,15 @@
+{
+    "internalname":"compressedbullet",
+    "displayname":"Compressed Bullet",
+    "recipedata":{
+        "burntcompressediron.compressediron":{
+            "def:constructor":"compressedbullet"
+        }
+    },
+    "bulletdata":{
+        "damage":6,
+        "def:unprocessedsteel":{
+            "burn":true
+        }
+    }
+}

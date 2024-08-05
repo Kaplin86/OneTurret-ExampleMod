@@ -1,0 +1,12 @@
+{
+    "recipedata":{
+        "def:iron":{
+            "def:furnace":"def:bronze"
+        }
+    },
+    "bulletdata":{
+        "def:charcoal":{
+            "damage":0
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "internalname":"compresseddiamond",
+    "displayname":"Compressed Diamond",
+    "recipedata":{},
+    "bulletdata":{
+        "damage":4
+    }
+}
