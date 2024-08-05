@@ -1,0 +1,14 @@
+{
+    "internalname":"compressediron",
+    "displayname":"Compressed Iron",
+    "recipedata":{
+        "def:furnace":"burntcompressediron",
+        "def:iron":{
+            "compressor":"compressediron",
+            "def:furnace":"def:bronze"
+        }
+    },
+    "bulletdata":{
+        "damage":4
+    }
+}
