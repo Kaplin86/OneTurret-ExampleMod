@@ -9,7 +9,7 @@
     "bulletdata":{
         "damage":6,
         "def:unprocessedsteel":{
-            "burn":true
+            "burn":[3,0.01]
         }
     }
 }

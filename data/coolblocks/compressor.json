@@ -15,5 +15,6 @@
     "worktime":3,
     "freeinput":false,
     "price":500,
-    "subtype":"converters"
+    "subtype":"converters",
+    "displaytype":"cool"
 }

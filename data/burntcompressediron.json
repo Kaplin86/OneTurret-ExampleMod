@@ -3,6 +3,6 @@
     "displayname":"Burnt Compressed Iron",
     "bulletdata":{
         "damage":4,
-        "def:burn":true
+        "def:burn":[3,0.02]
     }
 }
