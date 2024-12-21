@@ -9,5 +9,6 @@
     "worktime":0.1,
     "freeinput":true,
     "price":500,
+    "allowedmaps":["Forest"],
     "subtype":"transporters"
 }

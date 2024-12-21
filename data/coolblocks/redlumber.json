@@ -11,6 +11,7 @@
     "price":250,
     "subtype":"producers",
     "material":"redwood",
+    "bannedmaps":["Caves"],
     "def:lumber":{
         "displayname" : "Blue Lumber",
         "price":250
