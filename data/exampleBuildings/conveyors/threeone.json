@@ -1,0 +1,13 @@
+{
+    "internalname":"threeoneconveyor_fast",
+    "displayname":"Fast Conveyor",
+    "sizex":1,
+    "sizey":1,
+    "inputside": ["north","east","south"],
+    "outputside": "west",
+    "showprogress":false,
+    "worktime":0.1,
+    "freeinput":true,
+    "price":0,
+    "subtype":"transporters"
+}

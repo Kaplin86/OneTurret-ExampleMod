@@ -1,0 +1,25 @@
+{
+    "bossname":"blue_boss",
+    "displayname":"TheBossOfBlue",
+    "speed": 10,
+    "basehp":100,
+    "blindnessTimer":5,
+    "weakness":"reactivite",
+    "weaknessDamage":9,
+
+    "chat":{
+        "introductory":["Well well well! Lets make this a lil more bluer!","Im blue!","Im modded!","Hi!"],
+		"what do you think about": {
+			"The Forest" : "What a cool place!!",
+			"The Robot Army": "based",
+			"forest_boss": "very cool"
+		},
+		"How important is": {
+			"The Tundra":"Its close enough to blue!!",
+			"Yourself":"BLUEEEE!!"
+		},
+		"What's the story behind": {
+			"The Big Boss": "NOT BLUE. DEATH."
+		}
+    }
+}

@@ -1,0 +1,1 @@
+There are pre-set conveyor names, however the custom ones must all end in "_CONVEYORTYPE"

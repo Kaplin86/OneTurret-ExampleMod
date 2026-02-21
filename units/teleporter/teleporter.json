@@ -1,0 +1,10 @@
+{
+    "enemyname":"teleporter",
+    "displayname":"Telep0rter",
+    "ai":"teleporter",
+    "level": 1,
+    "basehp":10,
+    "speed": 50,
+    
+    "teleportTime":2
+}

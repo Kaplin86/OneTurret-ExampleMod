@@ -1,0 +1,1 @@
+The ground variant for ore tiles are defined by adding "-TILE" to the end of the item name

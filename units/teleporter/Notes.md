@@ -1,0 +1,1 @@
+Custom units will try to obtain a graphic from mapname=unitname.svg, but will fallback onto unitname.svg, so its good practice to atleast have one unitname.svg file

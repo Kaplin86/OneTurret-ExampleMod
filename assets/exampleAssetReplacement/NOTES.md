@@ -1,0 +1,2 @@
+Base assets like buildings and items can have their textures replaced by adding "def;" at the start of the asset name. This will also apply to other modded items if you replace def with the mod's identifier. 
+Enemy textures can be replaced by having a name like "forest=basic". Before the = is the map skin and after the = is the type of enemy it is.
