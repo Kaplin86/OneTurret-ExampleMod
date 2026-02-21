@@ -1,8 +1,8 @@
 {
     "displayname": "ExampleMod1",
     "creator": "kap",
-    "modver": 0.4,
+    "modver": 0.5,
     "description":"This is an examples!",
-    "intendedgamever": "0.7.2",
+    "intendedgamever": "0.8.2",
     "identifier":"examplem"
 }
